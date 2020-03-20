@@ -1,2 +1,2 @@
 # phpinfo
-This repo servers as a test for Github.
+This repo serves as a test for Github.
